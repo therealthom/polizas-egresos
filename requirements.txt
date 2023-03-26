@@ -1,0 +1,7 @@
+google-cloud-functions
+google-cloud-documentai
+google-cloud-storage
+google-cloud-bigquery
+
+# Configura estas variables en tu entorno
+# PYTHONUNBUFFERED=1;PROJECT_ID=gentle-charmer-381504;LOCATION=us;PROCESSOR_ID=ffd0792869234f27;BUCKET_NAME=testing-polizas;DATASET_ID=asf_polizas_db;ORIGEN=pending;DESTINO=processed;TABLE_ID=poliza_egresos
