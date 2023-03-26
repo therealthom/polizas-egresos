@@ -2,3 +2,5 @@ google-cloud-functions
 google-cloud-documentai
 google-cloud-storage
 google-cloud-bigquery
+
+# PYTHONUNBUFFERED=1;BUCKET_NAME=testing-polizas;PROJECT_ID=gentle-charmer-381504;LOCATION=us;PROCESSOR_ID=ffd0792869234f27;DATASET_ID=asf_polizas_db;TABLE_ID=poliza_egresos;ORIGEN=pending;DESTINO=processed
